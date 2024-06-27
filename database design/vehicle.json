@@ -1,0 +1,12 @@
+{
+    "name": "",
+    "vehicle_number": "",
+    "capacity": "",
+    "type": "",
+    "completed_rounds": [
+        "fleet1Id",
+        "fleet2Id",
+        "fleetNId"
+    ],
+    "current_round": "flet4Id"
+}

@@ -1,0 +1,9 @@
+{
+    "name":"",
+    "contact":"",
+    "email":"",
+    "type":"",
+    "completed_rounds": ["fleet1Id","fleet2Id", "fleetNId"],
+    "current_round": "flet4Id",
+    "number_of_vehicles_driven":["vehicle1Id", "vehicle2Id", "vehicle3Id"]
+}

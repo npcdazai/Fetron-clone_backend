@@ -1,0 +1,24 @@
+{
+  "name": "backenda",
+  "version": "1.0.0",
+  "description": "backend api for fleet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yash Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "child_process": "^1.0.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.1.0",
+    "path": "^0.12.7"
+  }
+}

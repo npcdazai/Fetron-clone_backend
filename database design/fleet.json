@@ -1,0 +1,22 @@
+{
+    "fleetId":"",
+    "vehicleId": "",
+    "driverIds": [""],
+    "origin":"",
+    "destination":"",
+    "fleetstatus": {
+        "available": "false",
+        "enroute_for_pickup": "routeId",
+        "at_pickup":"routeId",
+        "intransit":"null",
+        "unloading":"null",
+        "completed":"boolean"
+    },
+    "goods": [
+        {
+          "name": "name of the goods",
+          "quantity": "quantity of the goods",
+          "description": "description of the goods"
+        }
+    ]
+}

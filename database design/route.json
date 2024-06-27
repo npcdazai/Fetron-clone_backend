@@ -1,0 +1,9 @@
+{
+    "routeId":"",
+    "start_location":"",
+    "end_location":"",
+    "start_time":"",
+    "end_time":"",
+    "waypoints":[["lat","long", "time"], ["lat","long", "time"], ["lat","long", "time"]],
+    "journey_status":"boolean"
+}
